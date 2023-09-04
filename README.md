@@ -8,12 +8,11 @@ Cet outil SEO vous permet d'analyser tout un tas d'options liées a une page web
 - Lancez le fichier SEO.py en utilisant la commande :
 python3 /..chemin_du_fichier/SEO.py
 
-Le menu 4 comporte ce sous menu : 
+----------------- 
 
-Sous-Menu - Analyser les backlinks internes et externes:
---------------------------------------------------------------------
- 1 - Lister les backlinks internes et externes
- 2 - Vérifier la présence de liens cassés
- 3 - Analyser les liens entrant en code 404 et 301
- 4 - Retourner au menu principal
----------------------------------------------------------------------
+Le choix 4 du menu comporte ce sous menu : 
+
+- Lister les backlinks internes et externes avec leur ancre
+- Vérifier la présence de liens cassés
+- Analyser les liens entrant en code 404 et 301
+- Retourner au menu principal

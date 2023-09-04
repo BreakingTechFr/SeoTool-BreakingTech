@@ -14,5 +14,5 @@ Le choix 4 du menu comporte ce sous menu :
 
 - Lister les backlinks internes et externes avec leur ancre
 - Vérifier la présence de liens cassés
-- Détecter les liens entrant en code 404 et 301
+- Afficher les liens internes en code 404 et/ou 301
 - Retourner au menu principal

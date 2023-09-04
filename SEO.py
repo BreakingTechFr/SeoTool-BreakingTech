@@ -40,7 +40,6 @@ def main():
     try:
         os.system('cls' if os.name == 'nt' else 'clear')
         print(colored_logo)
-        print("\n\033[33mBienvenue dans l'outil SEO d'analyse de page web by BreakingTech!\033[0m")
         previous_url = None
 
         while True:
@@ -49,7 +48,7 @@ def main():
             print(" 1 - Vérifier le statut de l'url")
             print(" 2 - Afficher Title, méta, url canonical...")
             print(" 3 - Afficher les Hn")
-            print(" 4 - Analyser les backlinks internes et externes")
+            print(" 4 - Analyser les backlinks")
             print(" 5 - Quitter")
             print("---------------------------------------------------------------------\033[0m")
 
@@ -178,7 +177,7 @@ def backlinks_submenu(previous_url):
     while True:
         print("\n\033[94mSous-Menu - Analyser les backlinks internes et externes:\033[0m")
         print("\033[95m--------------------------------------------------------------------")
-        print(" 1 - Analyser les backlinks internes et externes")
+        print(" 1 - Lister les backlinks internes et externes avec leur ancre")
         print(" 2 - Vérifier la présence de liens cassés")
         print(" 3 - Analyser les liens entrant en code 404 et 301")
         print(" 4 - Retourner au menu principal")

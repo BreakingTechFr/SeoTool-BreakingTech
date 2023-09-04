@@ -179,7 +179,7 @@ def backlinks_submenu(previous_url):
         print("\033[95m--------------------------------------------------------------------")
         print(" 1 - Lister les backlinks internes et externes avec leur ancre")
         print(" 2 - Vérifier la présence de liens cassés")
-        print(" 3 - Analyser les liens entrant en code 404 et 301")
+        print(" 3 - Détecter les liens entrant en code 404 et/ou 301")
         print(" 4 - Retourner au menu principal")
         print("---------------------------------------------------------------------\033[0m")
 

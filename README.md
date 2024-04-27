@@ -17,6 +17,8 @@ python SEO.py
 
 Le choix 4 du menu comporte ce sous menu : 
 
+![Capture d’écran 2024-04-27 à 18 18 35](https://github.com/BreakingTechFr/SeoTool-BreakingTech/assets/128238555/4f7966ff-e574-4d12-b02e-77a2e00df533)
+
 - Lister les backlinks internes et externes avec leur ancre
 - Vérifier la présence de liens cassés
 - Afficher les liens internes en code 404 et/ou 301

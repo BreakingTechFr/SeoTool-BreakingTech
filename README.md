@@ -4,9 +4,14 @@
 Cet outil SEO vous permet d'analyser tout un tas d'options liées a une page web ciblée.
 
 # Utilisation :
-- Installez les dépendances avec la commande : pip install -r /..chemin_du_fichier/requirements.txt
+- Installez les dépendances avec la commande : 
+```shell
+pip install -r requirements.txt
+```
 - Lancez le fichier SEO.py en utilisant la commande :
-python3 /..chemin_du_fichier/SEO.py
+```shell
+python SEO.py
+```
 
 ----------------- 
 

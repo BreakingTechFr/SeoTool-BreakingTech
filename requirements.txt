@@ -1,5 +1,2 @@
-# Cette bibliothèque est utilisée pour effectuer des requêtes HTTP
-requests
-
-# beautifulsoup4 est utilisé pour analyser le HTML des pages web
-beautifulsoup4
+beautifulsoup4==4.10.0
+requests==2.26.0

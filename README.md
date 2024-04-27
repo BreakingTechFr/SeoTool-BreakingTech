@@ -16,3 +16,10 @@ Le choix 4 du menu comporte ce sous menu :
 - Vérifier la présence de liens cassés
 - Afficher les liens internes en code 404 et/ou 301
 - Retourner au menu principal
+
+## Suivez-nous
+
+- [@breakingtechfr](https://twitter.com/BreakingTechFR) sur Twitter.
+- [Facebook](https://www.facebook.com/BreakingTechFr/) likez notre page.
+- [Instagram](https://www.instagram.com/breakingtechfr/) taguez nous sur vos publications !
+- [Discord](https://discord.gg/VYNVBhk) pour parler avec nous !
